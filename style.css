@@ -1,0 +1,14 @@
+html{
+    font-size:15px;
+}
+
+body{
+    background-color: rgb(255, 247, 238);
+}
+
+h1{
+    font-size: 2rem;
+    text-align: center;
+    font-family:Abril Fatface, serif;
+}
+
