@@ -24,10 +24,13 @@ h2{
     background-color:antiquewhite
 }
 
+li:hover{
+    background-color: rgb(20, 88, 66);
+}
 a {
     text-decoration: solid;
     color:black;
 }
 a:hover{
-    color:red;
+    color:rgb(255, 247, 238);
 }
