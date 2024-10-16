@@ -34,3 +34,22 @@ a {
 a:hover{
     color:rgb(255, 247, 238);
 }
+
+
+/* styling for the journal pages */
+
+#pagesHeader{
+    font-size: 2.5rem;
+    padding:15px;
+    background-color: aquamarine;
+    border-bottom: 5px solid black;
+    border-radius: 0 0 10px 10px;
+}
+
+#pageNav{
+    color:black;
+}
+
+#pageNav:hover{
+    color:red;
+}
