@@ -12,3 +12,22 @@ h1{
     font-family:Abril Fatface, serif;
 }
 
+h2{
+    background-color: blanchedalmond;
+    padding:10px;
+    border-bottom:2px solid gray;
+}
+
+.days{
+    padding:5px;
+    margin:10px;
+    background-color:antiquewhite
+}
+
+a {
+    text-decoration: solid;
+    color:black;
+}
+a:hover{
+    color:red;
+}
