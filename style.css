@@ -53,3 +53,12 @@ a:hover{
 #pageNav:hover{
     color:red;
 }
+
+#dayStory{
+    font-family: caveat, cursive;
+}
+
+#journalImage{
+    width: 500px;
+    height:400px;
+}
