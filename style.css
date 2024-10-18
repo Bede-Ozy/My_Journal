@@ -58,12 +58,13 @@ a:hover{
     font-family: caveat, cursive;
 }
 
-.journalImage{
+ .journalImage{
     width: 100%;
     height:80%;
-    border-radius: 2%;
+    /* border-radius: 2%;
     border:0.5px solid black;
-}
+    margin:0px;
+}*/
 
 .storyImgCont{
     width:400px;
